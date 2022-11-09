@@ -1,6 +1,6 @@
 
-# Hi there, I'm [Kirill](https://kirillshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+# Hi there(https://kirillshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science Russia student 
 </div>
 
 
