@@ -1,4 +1,9 @@
 
+
+
+
+![image](https://user-images.githubusercontent.com/107795491/200790473-4dda59cb-31a4-4d4e-be0c-0d130eb2399b.png)
+
 # Hi there ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student, IT news writer from Russia
 
