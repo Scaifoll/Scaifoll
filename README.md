@@ -1,8 +1,6 @@
 
-<h1>
-   hey there
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   </h1>
+# Hi there, I'm [Kirill](https://kirillshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
 </div>
 
 
