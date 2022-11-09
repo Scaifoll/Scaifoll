@@ -2,8 +2,7 @@
 
 
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-![image](https://user-images.githubusercontent.com/107795491/200791194-04acd806-5ec3-4466-9314-8d9e5192a719.png)
-
+![image](https://user-images.githubusercontent.com/107795491/200791368-b6152659-d472-4fc9-9db7-d2bec393a1a4.png)
 
 
 
