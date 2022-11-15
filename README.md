@@ -1,8 +1,4 @@
 
-
-
-<img loading="lazy" data-gif="https://cloud.cybershoke.net/img/modes/gif/JAIL.gif?1654168456" data-img="https://cloud.cybershoke.net/img/modes/JAIL.jpg?1654168456" src="https://cloud.cybershoke.net/img/modes/gif/JAIL.gif?1654168456" alt="">
-
 <div align="center">
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="600" height="300"/>
 </div>
