@@ -14,6 +14,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ---
 
+![Snake animation](https://github.com/Scaifoll/Scaifoll/blob/output/github-contribution-grid-snake.svg)
+
+
 ### :man_technologist: About Me :
   product owner / manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: interested in frontend developing
