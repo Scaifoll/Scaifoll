@@ -25,7 +25,7 @@
 
 - :zap: free time is for learning something new
 
-- 👑 [snowhop](https://github.com/snowhop) CEO
+- 👑 [Hyego Team](https://scaifoll) CEO
 
 ---
 
